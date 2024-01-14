@@ -1,6 +1,8 @@
 package main
 
-import "fmt" // Importuje základní balíček fmt
+import (
+"fmt"
+)// Importuje základní balíček fmt
 
 func main() { // Hlavní funkce programu
 	// Zavolání funkce numbers
