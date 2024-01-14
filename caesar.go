@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+"fmt"
 )
 
 // Funkce caesarCipher provádí šifrování nebo dešifrování zprávy pomocí Caesarovy šifry.
